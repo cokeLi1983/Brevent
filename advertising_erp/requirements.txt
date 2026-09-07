@@ -1,0 +1,1 @@
+# No third-party runtime dependencies. PyInstaller is only required to build a Windows EXE.
